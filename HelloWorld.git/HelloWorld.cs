@@ -11,6 +11,7 @@ namespace Hello
         static void Main()
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Nun aber?");
             Console.WriteLine();
             Console.WriteLine("Press any key to close window");
             Console.ReadKey();
