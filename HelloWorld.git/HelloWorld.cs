@@ -12,7 +12,7 @@ namespace Hello
         {
             Console.WriteLine("Hello World");
             Console.WriteLine();
-            Console.WriteLine("Press any key to fuck off");
+            Console.WriteLine("Press any key to fuck on");
             Console.ReadKey();
         }
     }
